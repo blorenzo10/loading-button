@@ -1,7 +1,7 @@
 ### Loading Button 
 Custom loading button using core animation concepts
 
-![Alt Text](https://github.com/blorenzo10/loading-button/blob/master/screenshots/LoadingButton.gif)
+![Alt Text](https://github.com/blorenzo10/loading-button/blob/main/screenshots/LoadingButton.gif?raw=true)
 
 #### Usage
 1. Add a LoadingButton instance inside your view controller
